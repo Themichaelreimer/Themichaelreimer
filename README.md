@@ -1,14 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Mike. I'm a guy who often codes - sometimes for fun.
 Apart from programming, I'm very interested in Math, Medicine and Music.
 
-# Non-Work Projects in the works 
+## Non-Work Projects in the works 
 
-- Mortality Visualized (Website going live any day now)
-    - Django/Vue webapp for visualizing medical stats I find interesting. My long term goal with this is to start collecting stats via NLP 
-- PokemonLeague 
-    - Pokemon inspired tactical RPG being written in Python/OpenGL via Pyglet. My main design goal for it is to make it as easily tweakable by the end user as possible; and as such, creature stats, maps, and so on are stored in either plain text or easily and freely editable formats that you wouldn't need to be much of a wizard to modify.
+### Mortality Visualized (Website going live any day now)
+Django/Vue webapp for visualizing medical stats I find interesting. My long term goal with this is to start collecting stats via NLP 
+
+### PokemonLeague 
+Pokemon inspired tactical RPG being written in Python/OpenGL via Pyglet. My main design goal for it is to make it as easily tweakable by the end user as possible; and as such, creature stats, maps, and so on are stored in either plain text or easily and freely editable formats that you wouldn't need to be much of a wizard to modify.
 
 
 <!--

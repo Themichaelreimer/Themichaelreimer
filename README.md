@@ -10,7 +10,7 @@ Django/Vue webapp for visualizing medical stats I find interesting. My long term
 MVP is finished, just have to launch the server and deal with CORS and CSRF. Should be live any day now
 
 ### PokemonLeague 
-Pokemon inspired tactical RPG being written in Python/OpenGL via Pyglet. My main design goal for it is to make it as easily tweakable by the end user as possible; and as such, creature stats, maps, and so on are stored in either plain text or easily and freely editable formats that you wouldn't need to be much of a wizard to modify.
+Pokemon inspired tactical RPG being written in Python/OpenGL via Pyglet. My main design goal for it is to make it as easily tweakable by the end user as possible. Creature stats, maps, attacks, sprites, and so on are stored in either plain text or easily and freely editable formats that you wouldn't need to be much of a wizard to modify.
 
 
 <!--

@@ -6,11 +6,10 @@ Apart from programming, I'm very interested in Math, Medicine and Music.
 ## Non-Work Projects in the works 
 
 ### Mortality Visualized
-Django/Vue webapp for visualizing medical stats I find interesting. My long term goal with this is to start collecting stats via NLP. Not all the pages have something on here yet.
-http://medistat.online/
+Django/Vue webapp for visualizing medical stats I find interesting. My long term goals with this is to start collecting stats from medical papers via NLP, and to calculate probabilities of having diseases given sets of symptoms more accurately than the hilariously inaccurate WebMD system. https://medistat.online/
 
 ### PokemonLeague 
-Pokemon inspired tactical RPG being written in Java/LibGDX. My main design goal for it is to make it as easily tweakable by the end user as possible. Creature stats, maps, attacks, sprites, and so on are stored in either plain text or easily and freely editable formats that you wouldn't need to be much of a wizard to modify.
+Pokemon inspired tactical RPG being written in Java/LibGDX. My main design goal for it is to make it as easily tweakable by the end user as possible. Creature stats, levels, attacks, sprites, and so on are stored in either plain text or easily and freely editable formats that you wouldn't need to be much of a wizard to modify.
 
 
 <!--

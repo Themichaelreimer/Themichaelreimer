@@ -12,10 +12,11 @@ This project started during the early stages of the Covid-19 pandemic, with the 
 - Docker and Containerization
 - Python / Django
 - Javascript / Vue
+- 
 https://medistat.online
 
 ### Terminal Adventure 
-A randomly generated 2D adventure game in the vein of Legend of Zelda and console-based roguelikes. Collect progression items, fight the hordes, and descend into the depths to recover your lost wallet. First release is currently available and beatable. Second release with major graphical improvements is nearing completion.
+A randomly generated 2D adventure game in the vein of Legend of Zelda and console-based roguelikes. Collect progression items, fight the hordes, and descend into the depths to recover your lost wallet. It's finished and beatable!
 https://github.com/Themichaelreimer/TerminalAdventure
 
 

@@ -12,7 +12,7 @@ This project started during the early stages of the Covid-19 pandemic, with the 
 - Docker and Containerization
 - Python / Django
 - Javascript / Vue
-- 
+
 https://medistat.online
 
 ### Terminal Adventure 
